@@ -1,0 +1,6 @@
+{
+  "name": "MovieRulz",
+  "description": "Telugu & Indian cinema discovery hub, latest releases portal, and movie guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

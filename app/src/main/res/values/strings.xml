@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieRulz</string>
+    <string name="nav_movies">సినిమాలు (Movies)</string>
+    <string name="nav_portal">వెబ్‌సైట్ (Portal)</string>
+    <string name="nav_watchlist">వాచ్‌లిస్ట్ (Watchlist)</string>
+    <string name="nav_settings">సెట్టింగ్స్ (Settings)</string>
+</resources>
